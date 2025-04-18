@@ -1,7 +1,7 @@
-*.log
+#*.log
 *.svg
 *.txt
-*.pdf
+#*.pdf
 /tmp/
 
 ##### Python
